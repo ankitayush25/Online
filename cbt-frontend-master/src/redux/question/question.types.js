@@ -1,0 +1,15 @@
+export const UPDATE_CURRENT_INDEX = "UPDATE_CURRENT_INDEX";
+export const ANSWER = "ANSWER";
+export const NEXT_QUESTION = "NEXT_QUESTION";
+export const SET_PAPER = "SET_PAPER";
+export const UNCHECKED = "UNCHECKED";
+export const UPDATE_QUES_ARRAY = "UPDATE_QUES_ARRAY";
+export const CHANGE_QUESTION = "CHANGE_QUESTION";
+export const UPDATE_SECTION = "UPDATE_SECTION";
+export const IS_VISITED = "IS_VISITED";
+export const IS_ANSWERED = "IS_ANSWERED";
+export const INITIAL_ANSWER = "INITIAL_ANSWER";
+export const SET_PAPER_ID = "SET_PAPER_ID";
+export const SET_SCORE = "SET_SCORE";
+export const SET_PAPER_TYPE_ID = "SET_PAPER_TYPE_ID";
+// export const SET_IS_CORRECT = "SET_IS_CORRECT";
